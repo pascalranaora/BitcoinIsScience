@@ -6,6 +6,9 @@ Ce dépôt contient les ressources pour une présentation de niveau universitair
 ## 📁 Contenu du projet
 - **Montage Video MP4** : Un montage vidtéo prêt à être présenté.
 
+https://github.com/user-attachments/assets/f5d1dbe5-6779-4a57-a154-c853a8a82afa
+
+
 - **`Deck d'images PNG`** : Un deck de 10 diapositives au design moderne et scientifique (HTML/CSS), prêt à être présenté dans un navigateur.
 
 - **`script_nakamoto.md et fichiers mp3`** : Le script narratif complet associé aux diapositives, optimisé pour être généré en audio via des outils de synthèse vocale.
